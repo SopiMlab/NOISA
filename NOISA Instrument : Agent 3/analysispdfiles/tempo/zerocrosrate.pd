@@ -1,0 +1,11 @@
+#N canvas 481 404 561 235 10;
+#X text 107 62 zero-crossing rate: a cheap analog to the spectral centroid
+in temporal domain;
+#X obj 48 65 rj_zcr~;
+#X obj 48 18 inlet~;
+#X obj 48 160 outlet;
+#X text 72 127 compute zero crossings \, does not need fft. Can be
+useful for speech detection (e.g. if someone is talking);
+#X text 281 190 fundamental frequency estimater;
+#X connect 1 0 3 0;
+#X connect 2 0 1 0;
