@@ -1,0 +1,6 @@
+C:\Clean\FaceBasics-WPF-clean\bin\x86\Release\FaceBasics-WPF.exe.config
+C:\Clean\FaceBasics-WPF-clean\obj\x86\Release\FaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Clean\FaceBasics-WPF-clean\obj\x86\Release\MainWindow.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x86\Release\App.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x86\Release\FaceBasics-WPF_MarkupCompile.cache
+C:\Clean\FaceBasics-WPF-clean\obj\x86\Release\FaceBasics-WPF_MarkupCompile.lref

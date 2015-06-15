@@ -1,0 +1,12 @@
+C:\Kinect 2\FaceBasics-WPF\bin\x64\Release\FaceBasics-WPF.exe.config
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Release\FaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Release\MainWindow.g.cs
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Release\App.g.cs
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Release\FaceBasics-WPF_MarkupCompile.cache
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Release\FaceBasics-WPF_MarkupCompile.lref
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Release\FaceBasics-WPF.exe.config
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\FaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\MainWindow.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\App.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\FaceBasics-WPF_MarkupCompile.cache
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\FaceBasics-WPF_MarkupCompile.lref

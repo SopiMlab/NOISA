@@ -1,0 +1,16 @@
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\OSC.NET.pdb
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\MainWindow.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\App.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\MainWindow.baml
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\Microsoft.Samples.Kinect.FaceBasics.Properties.Resources.resources
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\NOISA-bodyTracking.csproj.GenerateResource.Cache
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\NOISA-bodyFaceTracker.exe.config
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\NOISA-bodyFaceTracker.exe
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\NOISA-bodyFaceTracker.pdb
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\NOISA-bodyFaceTracker_MarkupCompile.cache
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\NOISA-bodyFaceTracker_MarkupCompile.lref
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\NOISA-bodyFaceTracker.g.resources
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\NOISA-bodyFaceTracker.exe
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\NOISA-bodyFaceTracker.pdb

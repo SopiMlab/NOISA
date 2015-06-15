@@ -1,0 +1,34 @@
+C:\Kinect 2\FaceBasics-WPF\bin\x64\Debug\FaceBasics-WPF.exe.config
+C:\Kinect 2\FaceBasics-WPF\bin\x64\Debug\FaceBasics-WPF.exe
+C:\Kinect 2\FaceBasics-WPF\bin\x64\Debug\FaceBasics-WPF.pdb
+C:\Kinect 2\FaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Kinect 2\FaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\FaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\FaceBasics-WPF_MarkupCompile.cache
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\FaceBasics-WPF.g.resources
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.FaceBasics.Properties.Resources.resources
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\FaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\FaceBasics-WPF.exe
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\FaceBasics-WPF.pdb
+C:\Kinect 2\FaceBasics-WPF\obj\x64\Debug\FaceBasics-WPF_MarkupCompile.lref
+C:\Kinect 2\FaceBasics-WPF\bin\x64\Debug\OSC.NET.pdb
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\FaceBasics-WPF.exe.config
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\FaceBasics-WPF.exe
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\FaceBasics-WPF.pdb
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Debug\OSC.NET.pdb
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\FaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\MainWindow.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\App.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\FaceBasics-WPF_MarkupCompile.cache
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\FaceBasics-WPF_MarkupCompile.lref
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\MainWindow.baml
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\FaceBasics-WPF.g.resources
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\Microsoft.Samples.Kinect.FaceBasics.Properties.Resources.resources
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\FaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\FaceBasics-WPF.exe
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Debug\FaceBasics-WPF.pdb

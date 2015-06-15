@@ -1,0 +1,5 @@
+C:\Clean\FaceBasics-WPF-clean\bin\x64\Release\NOISA-bodyFaceTracker.exe.config
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\MainWindow.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\App.g.cs
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\NOISA-bodyFaceTracker_MarkupCompile.cache
+C:\Clean\FaceBasics-WPF-clean\obj\x64\Release\NOISA-bodyFaceTracker_MarkupCompile.lref

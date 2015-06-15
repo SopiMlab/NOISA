@@ -1,0 +1,5 @@
+C:\Kinect 2\FaceBasics-WPF\obj\x86\Debug\FaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Kinect 2\FaceBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect 2\FaceBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Kinect 2\FaceBasics-WPF\obj\x86\Debug\FaceBasics-WPF_MarkupCompile.cache
+C:\Kinect 2\FaceBasics-WPF\obj\x86\Debug\FaceBasics-WPF_MarkupCompile.lref
